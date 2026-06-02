@@ -1,0 +1,1454 @@
+{
+    "questions": [
+        {
+            "id": "1",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Are you going to the concert tonight?" },
+                { "name": "Woman", "text": "I would love to, but I have a huge biology exam tomorrow morning." }
+            ],
+            "context": {
+                "EN": "The woman implies she needs to study instead of going out.",
+                "ID": "Si wanita mengisyaratkan bahwa dia harus belajar alih-alih pergi keluar."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She will attend the concert later." },
+                { "key": "B", "text": "She is unable to go to the concert." },
+                { "key": "C", "text": "She has already taken her biology exam." },
+                { "key": "D", "text": "She wants the man to help her study." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "Her upcoming exam prevents her from attending the entertainment event.",
+                "ID": "Ujian yang akan datang menghalanginya untuk menghadiri acara hiburan tersebut."
+                }
+            }
+            }
+        },
+        {
+            "id": "2",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Could you help me move this heavy table?" },
+                { "name": "Man", "text": "My hands are tied at the moment." }
+            ],
+            "context": {
+                "EN": "The man uses an idiom to express that he is currently busy or unavailable.",
+                "ID": "Si pria menggunakan idiom untuk menyatakan bahwa dia sedang sibuk saat ini."
+            }
+            },
+            "question": {
+            "text": "What does the man imply?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He is wearing gloves." },
+                { "key": "B", "text": "He cannot assist the woman right now." },
+                { "key": "C", "text": "He wants to tie the table with a rope." },
+                { "key": "D", "text": "He will help her move it immediately." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The phrase 'hands are tied' means having no freedom or time to act or help.",
+                "ID": "Frasa 'hands are tied' berarti tidak memiliki kebebasan atau waktu untuk bertindak atau membantu."
+                }
+            }
+            }
+        },
+        {
+            "id": "3",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I'm really sorry I missed your presentation yesterday." },
+                { "name": "Woman", "text": "Don't worry about it, you didn't miss much anyway." }
+            ],
+            "context": {
+                "EN": "The woman downplays the importance of her presentation to comfort the man.",
+                "ID": "Si wanita meremehkan pentingnya presentasinya untuk menenangkan si pria."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "The presentation was very long." },
+                { "key": "B", "text": "The man should have attended the event." },
+                { "key": "C", "text": "It is fine that the man wasn't there." },
+                { "key": "D", "text": "She forgot to give her presentation." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "By saying 'you didn't miss much', she indicates that his absence was not a big deal.",
+                "ID": "Dengan mengatakan 'you didn't miss much', dia menunjukkan bahwa ketidakhadiran si pria bukan masalah besar."
+                }
+            }
+            }
+        },
+        {
+            "id": "4",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "How did you like the new restaurant downtown?" },
+                { "name": "Man", "text": "The food was reasonable, but the service left a lot to be desired." }
+            ],
+            "context": {
+                "EN": "The man uses a polite idiom to express dissatisfaction with the staff's performance.",
+                "ID": "Si pria menggunakan idiom sopan untuk menyatakan ketidakpuasan terhadap kinerja staf."
+            }
+            },
+            "question": {
+            "text": "What is the man's opinion of the restaurant?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He liked the service more than the food." },
+                { "key": "B", "text": "He thought both the food and service were excellent." },
+                { "key": "C", "text": "He found the service to be unsatisfactory." },
+                { "key": "D", "text": "He thinks the restaurant is too expensive." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "'Left a lot to be desired' means that something is bad or not good enough.",
+                "ID": "'Left a lot to be desired' berarti bahwa sesuatu itu buruk atau tidak cukup baik."
+                }
+            }
+            }
+        },
+        {
+            "id": "5",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Do you think Professor Smith will extend the deadline for the essay?" },
+                { "name": "Woman", "text": "Not on your life!" }
+            ],
+            "context": {
+                "EN": "The woman uses a strong idiomatic negative expression to reject the possibility.",
+                "ID": "Si wanita menggunakan ekspresi negatif idiomatik yang kuat untuk menolak kemungkinan tersebut."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "The professor will definitely grant an extension." },
+                { "key": "B", "text": "She thinks the essay is due next week." },
+                { "key": "C", "text": "The professor is highly unlikely to change the due date." },
+                { "key": "D", "text": "She has already finished her essay." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "The idiom 'not on your life' is used to say that something will definitely not happen.",
+                "ID": "Idiom 'not on your life' digunakan untuk mengatakan bahwa sesuatu pasti tidak akan terjadi."
+                }
+            }
+            }
+        },
+        {
+            "id": "6",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Should we take the highway to the airport?" },
+                { "name": "Man", "text": "At this time of day, it's usually bumper to bumper." }
+            ],
+            "context": {
+                "EN": "The man describes a traffic condition without using the word 'traffic'.",
+                "ID": "Si pria menggambarkan kondisi lalu lintas tanpa menggunakan kata 'traffic'."
+            }
+            },
+            "question": {
+            "text": "What does the man imply?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "The highway is the fastest route." },
+                { "key": "B", "text": "There is a lot of heavy traffic on the highway." },
+                { "key": "C", "text": "They need to repair their car's bumper." },
+                { "key": "D", "text": "The airport is close to the highway." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "'Bumper to bumper' is an idiom used to describe a long line of vehicles moving very slowly.",
+                "ID": "'Bumper to bumper' adalah idiom yang digunakan untuk menggambarkan antrean panjang kendaraan yang bergerak sangat lambat."
+                }
+            }
+            }
+        },
+        {
+            "id": "7",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I can't believe we've been waiting for our food for forty minutes." },
+                { "name": "Woman", "text": "Let's track down our server and see what's going on." }
+            ],
+            "context": {
+                "EN": "The woman suggests taking action to find out the reason for the delay.",
+                "ID": "Si wanita menyarankan untuk mengambil tindakan guna mencari tahu alasan keterlambatan."
+            }
+            },
+            "question": {
+            "text": "What does the woman suggest doing?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Leaving the restaurant immediately." },
+                { "key": "B", "text": "Waiting for another ten minutes." },
+                { "key": "C", "text": "Finding the waiter to ask about their order." },
+                { "key": "D", "text": "Ordering a different dish." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "To 'track down' means to find someone or something after searching for them.",
+                "ID": "Arti dari 'track down' adalah menemukan seseorang atau sesuatu setelah mencarinya."
+                }
+            }
+            }
+        },
+        {
+            "id": "8",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Are you ready to give your speech to the student council?" },
+                { "name": "Man", "text": "I've got butterflies in my stomach, to be honest." }
+            ],
+            "context": {
+                "EN": "The man uses a common idiom to describe his internal emotional state before a public performance.",
+                "ID": "Si pria menggunakan idiom umum untuk menggambarkan keadaan emosional internalnya sebelum tampil di depan umum."
+            }
+            },
+            "question": {
+            "text": "How does the man feel?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He feels sick from something he ate." },
+                { "key": "B", "text": "He is nervous about speaking." },
+                { "key": "C", "text": "He is excited and happy." },
+                { "key": "D", "text": "He forgot his speech notes." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "Having 'butterflies in one's stomach' is a metaphor for feeling anxious or nervous.",
+                "ID": "Memiliki 'butterflies in one's stomach' adalah metafora untuk merasa cemas atau gugup."
+                }
+            }
+            }
+        },
+        {
+            "id": "9",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "The weather forecast says it's going to pour all weekend." },
+                { "name": "Woman", "text": "There goes our plan for a beach picnic." }
+            ],
+            "context": {
+                "EN": "The woman reacts to the weather report by acknowledging the cancellation of their outdoor activity.",
+                "ID": "Si wanita bereaksi terhadap laporan cuaca dengan mengakui pembatalan aktivitas luar ruangan mereka."
+            }
+            },
+            "question": {
+            "text": "What does the woman imply?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "They should go to the beach anyway." },
+                { "key": "B", "text": "They will have to cancel the picnic." },
+                { "key": "C", "text": "She doesn't believe the weather forecast." },
+                { "key": "D", "text": "They can have a picnic inside the car." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The phrase 'there goes our plan' indicates that a plan cannot happen anymore due to new circumstances.",
+                "ID": "Frasa 'there goes our plan' menunjukkan bahwa suatu rencana tidak dapat terlaksana lagi karena keadaan baru."
+                }
+            }
+            }
+        },
+        {
+            "id": "10",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Did you manage to get a ticket for the championship game?" },
+                { "name": "Man", "text": "They were sold out by the time I logged online." }
+            ],
+            "context": {
+                "EN": "The man explains his failure to secure admission by mentioning the lack of availability.",
+                "ID": "Si pria menjelaskan kegagalannya mendapatkan tiket masuk dengan menyebutkan ketiadaan ketersediaan."
+            }
+            },
+            "question": {
+            "text": "What happened to the man?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He forgot to log online to check the tickets." },
+                { "key": "B", "text": "He was unable to purchase a ticket." },
+                { "key": "C", "text": "He bought the ticket at a higher price." },
+                { "key": "D", "text": "He decided not to go to the game." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "Since the tickets were 'sold out', no more items were available for him to buy.",
+                "ID": "Karena tiketnya 'sold out' (habis terjual), tidak ada lagi barang yang tersedia untuk dia beli."
+                }
+            }
+            }
+        },
+        {
+            "id": "11",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I tried calling Mark several times, but he didn't pick up." },
+                { "name": "Woman", "text": "Why don't you drop him a line instead?" }
+            ],
+            "context": {
+                "EN": "The woman suggests an alternative method of communication using an idiomatic verb phrase.",
+                "ID": "Si wanita menyarankan metode komunikasi alternatif menggunakan frasa kerja idiomatik."
+            }
+            },
+            "question": {
+            "text": "What does the woman suggest?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Calling Mark again later." },
+                { "key": "B", "text": "Writing a message or note to Mark." },
+                { "key": "C", "text": "Visiting Mark at his house." },
+                { "key": "D", "text": "Forgetting about communicating with Mark." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'drop someone a line' means to send a brief note, letter, or message to them.",
+                "ID": "'Drop someone a line' berarti mengirimkan pesan singkat, surat, atau catatan kepada seseorang."
+                }
+            }
+            }
+        },
+        {
+            "id": "12",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I think the prices at this grocery store are getting out of hand." },
+                { "name": "Man", "text": "Tell me about it! I spent twice as much today as I did last month." }
+            ],
+            "context": {
+                "EN": "The man expresses total agreement with the woman's statement using a common conversational phrase.",
+                "ID": "Si pria menyatakan persetujuan penuh dengan pernyataan si wanita menggunakan frasa percakapan umum."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He wants the woman to explain the prices to him." },
+                { "key": "B", "text": "He strongly agrees that the prices are rising high." },
+                { "key": "C", "text": "He thinks the store has good discounts." },
+                { "key": "D", "text": "He rarely goes shopping at this grocery store." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The phrase 'Tell me about it!' is used to agree completely with a negative remark someone has made.",
+                "ID": "Frasa 'Tell me about it!' digunakan untuk sangat setuju dengan keluhan atau komentar negatif orang lain."
+                }
+            }
+            }
+        },
+        {
+            "id": "13",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Do you have time to review my research paper today?" },
+                { "name": "Woman", "text": "I'm swamped with grading right now, but I could look at it on Friday." }
+            ],
+            "context": {
+                "EN": "The woman explains her current workload and offers a delayed alternative.",
+                "ID": "Si wanita menjelaskan beban kerjanya saat ini dan menawarkan alternatif waktu yang ditunda."
+            }
+            },
+            "question": {
+            "text": "What will the woman probably do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Read the man's paper immediately." },
+                { "key": "B", "text": "Refuse to read the paper at all." },
+                { "key": "C", "text": "Check the man's paper at the end of the week." },
+                { "key": "D", "text": "Help the man grade some assignments." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "She indicates she is too busy ('swamped') now but is available on Friday.",
+                "ID": "Dia menunjukkan bahwa dia terlalu sibuk ('swamped') sekarang tetapi memiliki waktu luang di hari Jumat."
+                }
+            }
+            }
+        },
+        {
+            "id": "14",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "John looks really tired today." },
+                { "name": "Man", "text": "He's been burning the candle at both ends studying for finals." }
+            ],
+            "context": {
+                "EN": "The man uses a metaphor to explain John's lack of sleep and intense routine.",
+                "ID": "Si pria menggunakan metafora untuk menjelaskan kurang tidur dan rutinitas intens John."
+            }
+            },
+            "question": {
+            "text": "What does the man say about John?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He has been working or studying late into the night." },
+                { "key": "B", "text": "He accidentally caused a fire while studying." },
+                { "key": "C", "text": "He prefers studying by candlelight." },
+                { "key": "D", "text": "He has decided to stop preparing for his exams." }
+                ],
+                "answer": "A",
+                "reason": {
+                "EN": "The idiom 'burning the candle at both ends' means staying up late and waking up early to work or study hard.",
+                "ID": "Idiom 'burning the candle at both ends' berarti tidur sangat larut dan bangun sangat pagi demi bekerja atau belajar keras."
+                }
+            }
+            }
+        },
+        {
+            "id": "15",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I'm thinking of signing up for the advanced chemistry course." },
+                { "name": "Woman", "text": "If I were in your shoes, I'd check the prerequisites first." }
+            ],
+            "context": {
+                "EN": "The woman offers advice by placing herself conceptually in the man's situation.",
+                "ID": "Si wanita menawarkan saran dengan menempatkan dirinya secara konseptual dalam situasi si pria."
+            }
+            },
+            "question": {
+            "text": "What does the woman advise the man to do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Buy new shoes for the chemistry lab." },
+                { "key": "B", "text": "Enroll in the chemistry course immediately." },
+                { "key": "C", "text": "Find out the required preparation for the class." },
+                { "key": "D", "text": "Change his major from chemistry to something else." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "The phrase 'in your shoes' is used to give advice, and 'prerequisites' refers to required prior classes.",
+                "ID": "Frasa 'in your shoes' digunakan untuk memberi saran, dan 'prerequisites' merujuk pada syarat kelas sebelumnya."
+                }
+            }
+            }
+        },
+        {
+            "id": "16",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Did you enjoy the guest speaker's presentation?" },
+                { "name": "Man", "text": "I could barely keep my eyes open." }
+            ],
+            "context": {
+                "EN": "The man expresses his physical reaction to the lecture to indicate boredom or extreme fatigue.",
+                "ID": "Si pria menyatakan reaksi fisiknya terhadap ceramah untuk menunjukkan kebosanan atau kelelahan ekstrem."
+            }
+            },
+            "question": {
+            "text": "What does the man imply about the presentation?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "It was held in a very dark room." },
+                { "key": "B", "text": "He found it extremely uninteresting." },
+                { "key": "C", "text": "He had to close his eyes to concentrate." },
+                { "key": "D", "text": "It was the best speech he had ever heard." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "Not being able to keep one's eyes open typically signifies that the subject was tedious or boring.",
+                "ID": "Tidak mampu membuka mata biasanya menandakan bahwa topik tersebut menjemukan atau membosankan."
+                }
+            }
+            }
+        },
+        {
+            "id": "17",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Should we buy the tickets for the theater now?" },
+                { "name": "Woman", "text": "Better safe than sorry. They might sell out quickly." }
+            ],
+            "context": {
+                "EN": "The woman uses a proverb to advocate for caution and prompt action.",
+                "ID": "Si wanita menggunakan pepatah untuk menganjurkan kehati-hatian dan tindakan cepat."
+            }
+            },
+            "question": {
+            "text": "What does the woman suggest?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Waiting to see if prices drop." },
+                { "key": "B", "text": "Purchasing the tickets immediately." },
+                { "key": "C", "text": "Finding a safer theater to go to." },
+                { "key": "D", "text": "Skipping the theater performance." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "'Better safe than sorry' means it is wiser to act immediately to avoid potential disappointment later.",
+                "ID": "'Better safe than sorry' berarti lebih bijaksana untuk bertindak segera guna menghindari potensi kekecewaan nanti."
+                }
+            }
+            }
+        },
+        {
+            "id": "18",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I can't seem to figure out how to solve this math problem." },
+                { "name": "Man", "text": "Why don't we sleep on it and look at it fresh tomorrow?" }
+            ],
+            "context": {
+                "EN": "The man uses an idiom suggesting to delay the decision or problem-solving until the next day.",
+                "ID": "Si pria menggunakan idiom yang menyarankan untuk menunda keputusan atau penyelesaian masalah hingga keesokan harinya."
+            }
+            },
+            "question": {
+            "text": "What does the man suggest doing?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Going to bed and dealing with the problem later." },
+                { "key": "B", "text": "Solving the problem while they are in bed." },
+                { "key": "C", "text": "Asking a math teacher for help tonight." },
+                { "key": "D", "text": "Giving up on the problem entirely." }
+                ],
+                "answer": "A",
+                "reason": {
+                "EN": "To 'sleep on it' means to delay making a decision or finding a solution until the next day.",
+                "ID": "'Sleep on it' berarti menunda pengambilan keputusan atau pencarian solusi hingga hari berikutnya."
+                }
+            }
+            }
+        },
+        {
+            "id": "19",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Is David coming to the party with us?" },
+                { "name": "Woman", "text": "He said he was feeling under the weather." }
+            ],
+            "context": {
+                "EN": "The woman explains David's absence using an idiomatic expression related to health.",
+                "ID": "Si wanita menjelaskan ketidakhadiran David menggunakan ekspresi idiomatik yang berkaitan dengan kesehatan."
+            }
+            },
+            "question": {
+            "text": "What does the woman say about David?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He is checking the outdoor weather forecast." },
+                { "key": "B", "text": "He does not like large parties." },
+                { "key": "C", "text": "He is not feeling well physically." },
+                { "key": "D", "text": "He will arrive later when the rain stops." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "The idiom 'under the weather' means slightly unwell, sick, or indisposed.",
+                "ID": "Idiom 'under the weather' berarti agak kurang sehat atau sakit."
+                }
+            }
+            }
+        },
+        {
+            "id": "20",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I'm nervous about my job interview tomorrow." },
+                { "name": "Man", "text": "Just put your best foot forward and you'll do fine." }
+            ],
+            "context": {
+                "EN": "The man offers encouragement by advising the woman to showcase her best qualities.",
+                "ID": "Si pria menawarkan dorongan dengan menasihati si wanita untuk menunjukkan kualitas terbaiknya."
+            }
+            },
+            "question": {
+            "text": "What does the man advise the woman to do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Walk carefully into the interview room." },
+                { "key": "B", "text": "Make a strong, positive effort to impress." },
+                { "key": "C", "text": "Buy new shoes for the meeting." },
+                { "key": "D", "text": "Postpone the interview until she feels ready." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'put your best foot forward' means to embark on an undertaking with as much effort and ability as possible.",
+                "ID": "'Put your best foot forward' berarti memulai suatu usaha dengan usaha dan kemampuan semaksimal mungkin."
+                }
+            }
+            }
+        },
+        {
+            "id": "21",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Did you hear that the library is changing its weekend hours?" },
+                { "name": "Woman", "text": "That's news to me." }
+            ],
+            "context": {
+                "EN": "The woman indicates her lack of prior awareness regarding the informational update.",
+                "ID": "Si wanita menunjukkan ketidaktahuannya sebelumnya mengenai pembaruan informasi tersebut."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She already knew about the schedule change." },
+                { "key": "B", "text": "She does not care about the library hours." },
+                { "key": "C", "text": "She had not heard about this information before." },
+                { "key": "D", "text": "She writes articles for the university news." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "The expression 'That's news to me' indicates that the speaker is hearing the information for the first time.",
+                "ID": "Ekspresi 'That's news to me' menunjukkan bahwa pembicara baru pertama kali mendengar informasi tersebut."
+                }
+            }
+            }
+        },
+        {
+            "id": "22",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I can't believe the professor gave us so much homework over the break." },
+                { "name": "Man", "text": "You can say that again!" }
+            ],
+            "context": {
+                "EN": "The man uses a colloquial response to express strong agreement with the woman's complaint.",
+                "ID": "Si pria menggunakan tanggapan kolokial untuk menyatakan persetujuan kuat atas keluhan si wanita."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He wants the woman to repeat what she said." },
+                { "key": "B", "text": "He fully agrees with the woman's opinion." },
+                { "key": "C", "text": "He thinks the homework is very easy." },
+                { "key": "D", "text": "He didn't hear the woman clearly." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The phrase 'You can say that again!' is an idiomatic expression meaning 'I completely agree with you'.",
+                "ID": "Frasa 'You can say that again!' adalah ekspresi idiomatik yang berarti 'Saya sangat setuju denganmu'."
+                }
+            }
+            }
+        },
+        {
+            "id": "23",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Are we still meeting at the cafe at five o'clock?" },
+                { "name": "Woman", "text": "Let's change it to six. Something unexpected has come up." }
+            ],
+            "context": {
+                "EN": "The woman modifies the schedule because an unforeseen event requires her attention.",
+                "ID": "Si wanita mengubah jadwal karena suatu kejadian yang tidak terduga memerlukan perhatiannya."
+            }
+            },
+            "question": {
+            "text": "What does the woman want to do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Cancel the meeting at the cafe entirely." },
+                { "key": "B", "text": "Postpone their meeting by one hour." },
+                { "key": "C", "text": "Meet at a different location." },
+                { "key": "D", "text": "Arrive earlier than originally planned." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "Moving the time from five to six means delaying or postponing the appointment by an hour.",
+                "ID": "Mengubah waktu dari jam lima ke jam enam berarti menunda janji temu selama satu jam."
+                }
+            }
+            }
+        },
+        {
+            "id": "24",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Did you finish writing the lab report last night?" },
+                { "name": "Man", "text": "I stayed up late, but I barely scratched the surface." }
+            ],
+            "context": {
+                "EN": "The man uses an idiom to show that despite his efforts, he only completed a small part of the task.",
+                "ID": "Si pria menggunakan idiom untuk menunjukkan bahwa meskipun telah berusaha, dia hanya menyelesaikan sebagian kecil tugas."
+            }
+            },
+            "question": {
+            "text": "What does the man imply about the lab report?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He finished it quickly without any trouble." },
+                { "key": "B", "text": "He has only done a small fraction of the work." },
+                { "key": "C", "text": "He accidentally damaged the paper document." },
+                { "key": "D", "text": "He decided to stop working on it completely." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'scratch the surface' means to deal with only a small or superficial part of a subject or task.",
+                "ID": "'Scratch the surface' berarti hanya menangani sebagian kecil atau bagian luar dari suatu subjek atau tugas."
+                }
+            }
+            }
+        },
+        {
+            "id": "25",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "The laptop I bought last week keeps crashing." },
+                { "name": "Woman", "text": "If I were you, I'd take it right back to the store." }
+            ],
+            "context": {
+                "EN": "The woman advises immediate action regarding a defective product purchase.",
+                "ID": "Si wanita menyarankan tindakan segera terkait pembelian produk yang cacat."
+            }
+            },
+            "question": {
+            "text": "What does the woman think the man should do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Try to fix the laptop himself." },
+                { "key": "B", "text": "Return the laptop to where he purchased it." },
+                { "key": "C", "text": "Wait for another week to see if it improves." },
+                { "key": "D", "text": "Buy a different brand of computer online." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The recommendation to 'take it right back' means returning the faulty item to the shop.",
+                "ID": "Rekomendasi untuk 'take it right back' berarti mengembalikan barang yang rusak tersebut ke toko."
+                }
+            }
+            }
+        },
+        {
+            "id": "26",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I heard you got the internship at the law firm!" },
+                { "name": "Man", "text": "Yeah, but it was a close call. The interview was tough." }
+            ],
+            "context": {
+                "EN": "The man indicates that success was achieved but only by a very narrow margin.",
+                "ID": "Si pria menunjukkan bahwa kesuksesan berhasil diraih tetapi hanya dengan selisih yang sangat tipis."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He did not receive the internship offer." },
+                { "key": "B", "text": "He almost didn't get the position." },
+                { "key": "C", "text": "He missed the interview phone call." },
+                { "key": "D", "text": "The law firm is located very close to his home." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "A 'close call' refers to a situation in which something bad or unsuccessful almost happened.",
+                "ID": "'Close call' merujuk pada situasi di mana sesuatu yang buruk atau kegagalan hampir saja terjadi."
+                }
+            }
+            }
+        },
+        {
+            "id": "27",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Do you want to go out for dinner or cook at home?" },
+                { "name": "Woman", "text": "Either way is fine by me. It's up to you." }
+            ],
+            "context": {
+                "EN": "The woman expresses neutral preference, passing the decision power to the man.",
+                "ID": "Si wanita menyatakan pilihan netral, menyerahkan kekuasaan pengambilan keputusan kepada si pria."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She wants to cook a specific meal at home." },
+                { "key": "B", "text": "She wants the man to make the final choice." },
+                { "key": "C", "text": "She dislikes eating out at restaurants." },
+                { "key": "D", "text": "She is too tired to make a decision." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The phrase 'It's up to you' means that the decision is dependent on the other person's preference.",
+                "ID": "Frasa 'It's up to you' berarti bahwa keputusan bergantung pada pilihan orang lain tersebut."
+                }
+            }
+            }
+        },
+        {
+            "id": "28",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I hope the professor doesn't call on me today. I didn't read the chapter." },
+                { "name": "Man", "text": "You're in the same boat as most people in the class." }
+            ],
+            "context": {
+                "EN": "The man uses an idiom to indicate that her unpreparedness is shared by others.",
+                "ID": "Si pria menggunakan idiom untuk menunjukkan bahwa ketidaksiapannya juga dialami oleh orang lain."
+            }
+            },
+            "question": {
+            "text": "What does the man imply?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Many students are also unprepared for the class." },
+                { "key": "B", "text": "The class is going on a field trip by boat." },
+                { "key": "C", "text": "Most students have completed the reading assignment." },
+                { "key": "D", "text": "He will help the woman read the chapter now." }
+                ],
+                "answer": "A",
+                "reason": {
+                "EN": "To be 'in the same boat' means to be in the same difficult or unfortunate situation as others.",
+                "ID": "'In the same boat' berarti berada dalam situasi sulit atau tidak beruntung yang sama dengan orang lain."
+                }
+            }
+            }
+        },
+        {
+            "id": "29",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Did you see how angry the manager was during the staff meeting?" },
+                { "name": "Woman", "text": "He really lost his cool, didn't he?" }
+            ],
+            "context": {
+                "EN": "The woman confirms the manager's emotional outburst using informal figurative phrasing.",
+                "ID": "Si wanita mengonfirmasi luapan emosi manajer menggunakan ungkapan figuratif informal."
+            }
+            },
+            "question": {
+            "text": "What do the speakers say about the manager?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He became very cold during the meeting." },
+                { "key": "B", "text": "He failed to control his temper." },
+                { "key": "C", "text": "He canceled the rest of the meeting." },
+                { "key": "D", "text": "He forgot the main topic of discussion." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'lose one's cool' means to lose control of one's temper or emotions.",
+                "ID": "'Lose one's cool' berarti kehilangan kendali atas amarah atau emosi seseorang."
+                }
+            }
+            }
+        },
+        {
+            "id": "30",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Are you going to buy that textbook brand new?" },
+                { "name": "Man", "text": "I would if it didn't cost an arm and a leg." }
+            ],
+            "context": {
+                "EN": "The man explains his hesitation using an idiom that emphasizes an excessive financial burden.",
+                "ID": "Si pria menjelaskan keraguannya menggunakan idiom yang menekankan beban keuangan yang berlebihan."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He will purchase the new textbook anyway." },
+                { "key": "B", "text": "The textbook is extremely expensive." },
+                { "key": "C", "text": "He needs to find a book about human anatomy." },
+                { "key": "D", "text": "He cannot find the book anywhere in store." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The idiom 'costs an arm and a leg' is used to describe something that is very high in price.",
+                "ID": "Idiom 'costs an arm and a leg' digunakan untuk menggambarkan sesuatu yang harganya sangat mahal."
+                }
+            }
+            }
+        },
+        {
+            "id": "31",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Could you help me edit this video before the submission deadline?" },
+                { "name": "Woman", "text": "I'd love to, but I'm completely tied up until next week." }
+            ],
+            "context": {
+                "EN": "The woman rejects the request by expressing her lack of free time using a metaphor.",
+                "ID": "Si wanita menolak permintaan tersebut dengan menyatakan kurangnya waktu luang menggunakan metafora."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She will assist him with the editing right away." },
+                { "key": "B", "text": "She is too busy to help him at the moment." },
+                { "key": "C", "text": "She needs a rope to tie something up." },
+                { "key": "D", "text": "She doesn't know how to edit videos." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To be 'tied up' means to be occupied, busy, or unavailable for other activities.",
+                "ID": "Menjadi 'tied up' berarti sedang sibuk, terikat pekerjaan, atau tidak tersedia untuk aktivitas lain."
+                }
+            }
+            }
+        },
+        {
+            "id": "32",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "The printer in the student lounge is out of order again." },
+                { "name": "Man", "text": "Not surprising. It's been on its last legs for months." }
+            ],
+            "context": {
+                "EN": "The man remarks on the machinery's old age and near-failure state.",
+                "ID": "Si pria mengomentari usia tua mesin dan kondisi yang hampir rusak total."
+            }
+            },
+            "question": {
+            "text": "What does the man imply about the printer?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "It was recently repaired by the staff." },
+                { "key": "B", "text": "It is a brand-new model with legs." },
+                { "key": "C", "text": "It is old and near the end of its usefulness." },
+                { "key": "D", "text": "It runs faster than other printers." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "The phrase 'on its last legs' means near the end of life, usefulness, or existence.",
+                "ID": "Frasa 'on its last legs' berarti hampir mati, tidak dapat digunakan lagi, atau rusak karena tua."
+                }
+            }
+            }
+        },
+        {
+            "id": "33",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I can't believe how quickly the seminar passed." },
+                { "name": "Woman", "text": "Time flies when you're learning something interesting." }
+            ],
+            "context": {
+                "EN": "The woman relies on a proverb regarding the perception of temporal passage during engaging tasks.",
+                "ID": "Si wanita bersandar pada pepatah mengenai persepsi berjalannya waktu selama tugas yang menarik."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "The seminar felt short because it was engaging." },
+                { "key": "B", "text": "They arrived late to the presentation room." },
+                { "key": "C", "text": "The speaker talked way too fast." },
+                { "key": "D", "text": "She wants to leave the class early." }
+                ],
+                "answer": "A",
+                "reason": {
+                "EN": "The proverb 'time flies' signifies that time seems to move very rapidly when one is enjoying themselves.",
+                "ID": "Pepatah 'time flies' menandakan bahwa waktu terasa berlalu sangat cepat ketika seseorang sedang menikmati situasi."
+                }
+            }
+            }
+        },
+        {
+            "id": "34",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Should we inform Professor Davis about our project delay?" },
+                { "name": "Man", "text": "We might as well get it over with." }
+            ],
+            "context": {
+                "EN": "The man suggests facing an unpleasant task promptly rather than avoiding it.",
+                "ID": "Si pria menyarankan untuk segera menghadapi tugas yang tidak menyenangkan alih-alih menghindarinya."
+            }
+            },
+            "question": {
+            "text": "What does the man suggest?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Delaying the notification as long as possible." },
+                { "key": "B", "text": "Telling the professor about the issue immediately." },
+                { "key": "C", "text": "Canceling the project without telling anyone." },
+                { "key": "D", "text": "Asking another teacher for a second opinion." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'get it over with' means to do something unpleasant or difficult immediately so that you do not have to worry about it anymore.",
+                "ID": "'Get it over with' berarti melakukan sesuatu yang tidak menyenangkan atau sulit dengan segera agar tidak perlu mengkhawatirkannya lagi."
+                }
+            }
+            }
+        },
+        {
+            "id": "35",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Mark looks very stressed about the upcoming debate competition." },
+                { "name": "Woman", "text": "He just needs to keep his chin up." }
+            ],
+            "context": {
+                "EN": "The woman offers an encouraging idiom aimed at boosting someone's morale.",
+                "ID": "Si wanita menawarkan idiom penyemangat yang bertujuan untuk meningkatkan moral seseorang."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Mark should look up while speaking." },
+                { "key": "B", "text": "Mark should remain hopeful and cheerful." },
+                { "key": "C", "text": "Mark needs to practice his posture." },
+                { "key": "D", "text": "Mark will likely lose the debate." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'keep your chin up' means to stay positive and optimistic in a difficult emotional situation.",
+                "ID": "'Keep your chin up' berarti tetap positif dan optimis dalam situasi emosional yang sulit."
+                }
+            }
+            }
+        },
+        {
+            "id": "36",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I tried to solve this coding error, but I'm stuck." },
+                { "name": "Man", "text": "Let me take a look. Two heads are better than one." }
+            ],
+            "context": {
+                "EN": "The man applies a proverbial concept emphasizing the benefit of cooperative problem-solving.",
+                "ID": "Si pria menerapkan konsep pepatah yang menekankan manfaat dari pemecahan masalah secara kooperatif."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He thinks the error is too complex for them." },
+                { "key": "B", "text": "He believes working together will help find a solution." },
+                { "key": "C", "text": "He wants to work on the code by himself." },
+                { "key": "D", "text": "He thinks the woman should find another partner." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The phrase 'two heads are better than one' implies that two people working together can solve a problem more easily than one.",
+                "ID": "Frasa 'two heads are better than one' menyiratkan bahwa dua orang yang bekerja bersama dapat menyelesaikan masalah lebih mudah daripada satu orang."
+                }
+            }
+            }
+        },
+        {
+            "id": "37",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Are you going to register for the photography workshop?" },
+                { "name": "Woman", "text": "I'm still on the fence about it." }
+            ],
+            "context": {
+                "EN": "The woman describes her undecided mental state using a classic physical metaphor.",
+                "ID": "Si wanita menggambarkan kondisi mentalnya yang belum memutuskan menggunakan metafora fisik klasik."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She has already signed up for the workshop." },
+                { "key": "B", "text": "She is unable to attend due to a fence." },
+                { "key": "C", "text": "She has not made a definitive choice yet." },
+                { "key": "D", "text": "She thinks the workshop is a bad idea." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "To be 'on the fence' means to be undecided or uncommitted regarding two options.",
+                "ID": "Menjadi 'on the fence' berarti belum memutuskan atau belum menentukan pilihan di antara dua opsi."
+                }
+            }
+            }
+        },
+        {
+            "id": "38",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Did the group select a topic for the history presentation?" },
+                { "name": "Man", "text": "We finally hit upon an idea after hours of discussion." }
+            ],
+            "context": {
+                "EN": "The man details the outcome of their group meeting using a phrasal verb of discovery.",
+                "ID": "Si pria merinci hasil pertemuan kelompok mereka menggunakan kata kerja frasa tentang penemuan."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "They physical struck something during the class." },
+                { "key": "B", "text": "They managed to discover a suitable topic." },
+                { "key": "C", "text": "They decided to cancel the presentation." },
+                { "key": "D", "text": "They disagreed on every single idea." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'hit upon' something means to think of or discover a solution or idea by chance or effort.",
+                "ID": "'Hit upon' sesuatu berarti memikirkan atau menemukan solusi atau ide melalui peluang atau usaha."
+                }
+            }
+            }
+        },
+        {
+            "id": "39",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "The new assignment rules seem extremely complicated." },
+                { "name": "Woman", "text": "Don't worry, once you start, it's a piece of cake." }
+            ],
+            "context": {
+                "EN": "The woman comforts the man by evaluating the task's true difficulty level using food imagery.",
+                "ID": "Si wanita menenangkan si pria dengan mengevaluasi tingkat kesulitan sebenarnya dari tugas tersebut menggunakan citra makanan."
+            }
+            },
+            "question": {
+            "text": "What does the woman think about the assignment?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "It involves cooking or baking food." },
+                { "key": "B", "text": "It is much easier than it appears." },
+                { "key": "C", "text": "It will take a long time to complete." },
+                { "key": "D", "text": "It requires buying a dessert for class." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The idiom 'a piece of cake' is used to describe something that is extraordinarily easy to do.",
+                "ID": "Idiom 'a piece of cake' digunakan untuk menggambarkan sesuatu yang sangat mudah dilakukan."
+                }
+            }
+            }
+        },
+        {
+            "id": "40",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Did you manage to fix the leak in the bathroom?" },
+                { "name": "Man", "text": "I tried, but it's completely beyond my depth." }
+            ],
+            "context": {
+                "EN": "The man confesses his lack of skill or knowledge for a specific maintenance task.",
+                "ID": "Si pria mengakui kurangnya keterampilan atau pengetahuan untuk tugas pemeliharaan tertentu."
+            }
+            },
+            "question": {
+            "text": "What does the man mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "The bathroom floor is covered in deep water." },
+                { "key": "B", "text": "He successfully repaired the broken pipe." },
+                { "key": "C", "text": "He lacks the expertise required to fix it." },
+                { "key": "D", "text": "He needs to measure the depth of the room." }
+                ],
+                "answer": "C",
+                "reason": {
+                "EN": "To be 'beyond one's depth' means to be in a situation that is too difficult or outside of one's capabilities.",
+                "ID": "Menjadi 'beyond one's depth' berarti berada dalam situasi yang terlalu sulit atau di luar kemampuan seseorang."
+                }
+            }
+            }
+        },
+        {
+            "id": "41",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I missed the deadline for the study abroad program." },
+                { "name": "Woman", "text": "That's a pity, but there's no use crying over spilled milk." }
+            ],
+            "context": {
+                "EN": "The woman advises against useless regret regarding past unchangeable occurrences.",
+                "ID": "Si wanita menasihati agar tidak menyesali hal yang sia-sia terkait peristiwa masa lalu yang tidak dapat diubah."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "The man should clean up the liquid error." },
+                { "key": "B", "text": "Regretting the past will not fix the current situation." },
+                { "key": "C", "text": "She thinks he should try to apply again today." },
+                { "key": "D", "text": "The deadline was not actually important." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The proverb 'no use crying over spilled milk' means it's pointless to worry about past mistakes that cannot be undone.",
+                "ID": "Pepatah 'no use crying over spilled milk' berarti tidak ada gunanya mengkhawatirkan kesalahan masa lalu yang tidak bisa diubah."
+                }
+            }
+            }
+        },
+        {
+            "id": "42",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Can you believe Arthur won the research grant?" },
+                { "name": "Man", "text": "It came completely out of the blue!" }
+            ],
+            "context": {
+                "EN": "The man highlights the unexpected nature of the event using an idiomatic color reference.",
+                "ID": "Si pria menyoroti sifat tak terduga dari peristiwa tersebut menggunakan referensi warna idiomatik."
+            }
+            },
+            "question": {
+            "text": "What does the man imply about Arthur's grant?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "It was expected by everyone in the department." },
+                { "key": "B", "text": "It was a total surprise." },
+                { "key": "C", "text": "It was announced on a clear day." },
+                { "key": "D", "text": "The grant amount was lower than anticipated." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The idiom 'out of the blue' means completely unexpected, sudden, or without warning.",
+                "ID": "Idiom 'out of the blue' berarti benar-benar tidak terduga, tiba-tiba, atau tanpa peringatan."
+                }
+            }
+            }
+        },
+        {
+            "id": "43",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Are you almost ready to leave for the presentation?" },
+                { "name": "Woman", "text": "Hold your horses, I can't find my car keys." }
+            ],
+            "context": {
+                "EN": "The woman tells the man to reduce his rushing using an old idiomatic command.",
+                "ID": "Si wanita menyuruh si pria untuk mengurangi ketergesa-gesaannya menggunakan perintah idiomatik lama."
+            }
+            },
+            "question": {
+            "text": "What does the woman mean?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She wants the man to be patient and wait." },
+                { "key": "B", "text": "She owns multiple animals at home." },
+                { "key": "C", "text": "She is ready to go to the car now." },
+                { "key": "D", "text": "She thinks they should walk instead of drive." }
+                ],
+                "answer": "A",
+                "reason": {
+                "EN": "The idiomatic expression 'hold your horses' is used to tell someone to stop, slow down, or be patient.",
+                "ID": "Ekspresi idiomatik 'hold your horses' digunakan untuk memberitahu seseorang agar berhenti, memperlambat, atau bersabar."
+                }
+            }
+            }
+        },
+        {
+            "id": "44",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "I can't seem to make ends meet with my current part-time job salary." },
+                { "name": "Man", "text": "Maybe it's time to look for a full-time position." }
+            ],
+            "context": {
+                "EN": "The woman outlines a financial distress situation without stating literal monetary terms.",
+                "ID": "Si wanita menguraikan situasi kesulitan keuangan tanpa menyatakan istilah moneter secara harfiah."
+            }
+            },
+            "question": {
+            "text": "What problem is the woman facing?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She doesn't like her current job tasks." },
+                { "key": "B", "text": "She is unable to cover her living expenses." },
+                { "key": "C", "text": "She cannot find the end of a physical rope." },
+                { "key": "D", "text": "She works too many hours every week." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'make ends meet' means to earn enough money to live on or pay for one's necessary expenses.",
+                "ID": "'Make ends meet' berarti menghasilkan cukup uang untuk hidup atau membayar biaya-biaya penting seseorang."
+                }
+            }
+            }
+        },
+        {
+            "id": "45",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "I don't think we should change our project strategy now." },
+                { "name": "Woman", "text": "Let's play it by ear and see how things develop." }
+            ],
+            "context": {
+                "EN": "The woman favors flexibility over rigid preset planning using a musical idiom.",
+                "ID": "Si wanita lebih menyukai fleksibilitas daripada perencanaan kaku yang ditetapkan sebelumnya menggunakan idiom musik."
+            }
+            },
+            "question": {
+            "text": "What does the woman suggest?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Listening to music while they work." },
+                { "key": "B", "text": "Dealing with the situation as it happens without strict plans." },
+                { "key": "C", "text": "Writing a detailed, permanent strategy manual." },
+                { "key": "D", "text": "Asking the manager for hearing protection." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'play it by ear' means to decide instructions or actions as a situation progresses rather than following a firm plan.",
+                "ID": "'Play it by ear' berarti memutuskan tindakan seiring berkembangnya situasi daripada mengikuti rencana kaku."
+                }
+            }
+            }
+        },
+        {
+            "id": "46",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "How did you manage to finish that thick book in one day?" },
+                { "name": "Man", "text": "I skipped the introduction and got straight to the point." }
+            ],
+            "context": {
+                "EN": "The man explains his reading efficiency technique by focusing only on core substance.",
+                "ID": "Si pria menjelaskan teknik efisiensi membacanya dengan hanya fokus pada substansi inti."
+            }
+            },
+            "question": {
+            "text": "What did the man do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He read every page very slowly." },
+                { "key": "B", "text": "He ignored the starting parts and read the main content." },
+                { "key": "C", "text": "He decided the book was too boring to read." },
+                { "key": "D", "text": "He lost the book after reading the first page." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "Getting 'straight to the point' means addressing the most important or core part directly without wasting time.",
+                "ID": "Mencapai 'straight to the point' berarti menuju bagian paling penting atau inti secara langsung tanpa membuang waktu."
+                }
+            }
+            }
+        },
+        {
+            "id": "47",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Did you tell Sarah about the secret party?" },
+                { "name": "Woman", "text": "I didn't mean to, but I accidentally let the cat out of the bag." }
+            ],
+            "context": {
+                "EN": "The woman admits to revealing hidden information through an accidental verbal slip.",
+                "ID": "Si wanita mengaku telah mengungkapkan informasi tersembunyi melalui kesalahan bicara yang tidak disengaja."
+            }
+            },
+            "question": {
+            "text": "What did the woman do?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "She brought a pet animal to the party room." },
+                { "key": "B", "text": "She unintentionally revealed the secret." },
+                { "key": "C", "text": "She forgot to invite Sarah to the event." },
+                { "key": "D", "text": "She lost her bag while traveling." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The idiom 'let the cat out of the bag' means to reveal a secret, usually carelessly or by mistake.",
+                "ID": "Idiom 'let the cat out of the bag' berarti mengungkapkan rahasia, biasanya secara tidak sengaja atau karena kecerobohan."
+                }
+            }
+            }
+        },
+        {
+            "id": "48",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "Are you going to try out for the basketball varsity team?" },
+                { "name": "Man", "text": "I think it's a long shot, but I'll give it a try." }
+            ],
+            "context": {
+                "EN": "The man assesses his low probability of success while maintaining an intent to attempt.",
+                "ID": "Si pria menilai probabilitas keberhasilannya yang rendah sambil tetap mempertahankan niat untuk mencoba."
+            }
+            },
+            "question": {
+            "text": "What does the man think about his chances?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "He is certain he will make the team." },
+                { "key": "B", "text": "He thinks success is highly unlikely but possible." },
+                { "key": "C", "text": "He can throw the ball from a long distance." },
+                { "key": "D", "text": "He has decided to skip the tryouts." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "A 'long shot' is an attempt or guess that has only a very small chance of succeeding.",
+                "ID": "'Long shot' adalah upaya atau tebakan yang hanya memiliki peluang sangat kecil untuk berhasil."
+                }
+            }
+            }
+        },
+        {
+            "id": "49",
+            "conversation": {
+            "persons": [
+                { "name": "Man", "text": "Why are you staying late at the lab tonight?" },
+                { "name": "Woman", "text": "I need to catch up on my chemistry data entries." }
+            ],
+            "context": {
+                "EN": "The woman explains her necessity to compensate for accumulated behind-schedule work.",
+                "ID": "Si wanita menjelaskan keharusannya untuk mengompensasi akumulasi pekerjaan yang tertinggal."
+            }
+            },
+            "question": {
+            "text": "What is the woman doing?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Starting a brand-new experimental study." },
+                { "key": "B", "text": "Doing overdue work to reach the expected level." },
+                { "key": "C", "text": "Cleaning the chemistry lab equipment." },
+                { "key": "D", "text": "Teaching a chemistry class late at night." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "To 'catch up' means to do tasks necessary to reach a standard or point from which one is behind.",
+                "ID": "'Catch up' berarti melakukan tugas yang diperlukan untuk mencapai standar atau titik di mana seseorang tertinggal."
+                }
+            }
+            }
+        },
+        {
+            "id": "50",
+            "conversation": {
+            "persons": [
+                { "name": "Woman", "text": "The manager rejected your marketing proposal again." },
+                { "name": "Man", "text": "Well, back to the drawing board, I guess." }
+            ],
+            "context": {
+                "EN": "The man acknowledges the failure and the requirement to restart the planning process entirely.",
+                "ID": "Si pria mengakui kegagalan dan keharusan untuk memulai kembali proses perencanaan sepenuhnya."
+            }
+            },
+            "question": {
+            "text": "What will the man probably do next?",
+            "answers": {
+                "options": [
+                { "key": "A", "text": "Quit his job at the marketing firm." },
+                { "key": "B", "text": "Start designing a completely new proposal." },
+                { "key": "C", "text": "Buy a new drawing board for the office." },
+                { "key": "D", "text": "Submit the exact same proposal again tomorrow." }
+                ],
+                "answer": "B",
+                "reason": {
+                "EN": "The idiom 'back to the drawing board' means to start planning something over again because a previous attempt failed.",
+                "ID": "Idiom 'back to the drawing board' berarti mulai merencanakan sesuatu dari awal lagi karena upaya sebelumnya gagal."
+                }
+            }
+            }
+        }
+    ]
+}
