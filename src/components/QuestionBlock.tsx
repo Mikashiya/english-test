@@ -40,7 +40,7 @@ export default function QuestionBlock() {
     };
 
     return (
-        <div className="w-3/4 h-auto p-6 shadow-md rounded-lg border border-secondary/20 space-y-6 leading-relaxed tracking-wide">
+        <div className="w-full md:w-3/4 h-auto p-6 shadow-md rounded-lg border border-secondary/20 space-y-6 leading-relaxed tracking-wide">
             <div className="flex items-center justify-between">
                 <p className="text-secondary/70">Soal {currentIndex + 1}/{data.questions.length}</p>
                 <p className="text-secondary/70">Jawaban Benar {totalScore}/{data.questions.length}</p>
